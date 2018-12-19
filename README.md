@@ -100,3 +100,16 @@ return [
 - Yii won't create the database for you, this has to be done manually before you can access it.
 - Check and edit the other files in the `config/` directory to customize your application as required.
 - Refer to the README in the `tests` directory for information specific to basic application tests.
+
+
+Esse código foi utilizado para a criação do curso [Yii2 básico](https://www.schoolofnet.com/curso/php/yii2/yii2-basico/) da School of Net.
+
+A School of Net é uma escola online que ensina as mais diversas tecnologias no mundo da programação, desenvolvimento web, games, design e infraestrutura.
+
+School of Net - [https://www.schoolofnet.com](https://www.schoolofnet.com)
+
+Blog da School of Net - [https://blog.schoolofnet.com](https://blog.schoolofnet.com)
+
+SONCast - Podcast da School of Net - [https://podcast.schoolofnet.com](https://podcast.schoolofnet.com)
+
+Canal da School of Net no Youtube: [http://www.youtube.com/c/SchoolofNetCursos](http://www.youtube.com/c/SchoolofNetCursos)
